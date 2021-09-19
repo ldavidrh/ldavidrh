@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis David Restrepo</h1>
-<h3 align="center">A passionate tech nerd and backend developer from Colombia</h3>
+<h3 align="center">A passionate tech nerd and fullstack developer from Colombia</h3>
 
 - 🌱 I’m currently learning **CSS, HTML, Javascript**
 
