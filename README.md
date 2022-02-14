@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **FARO SST**
 
-- 🌱 I’m currently learning **CSS, HTML, Javascript, Angular, .Net**
+- 🌱 I’m currently learning **CSS, HTML, Javascript, Angular, React, .Net**
 
 - 📫 How to reach me **luisrestrepo1995@gmail.com**
 
