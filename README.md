@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis David Restrepo</h1>
 <h3 align="center">A passionate full-stack developer from Colombia</h3>
 
-- 🔭 I’m currently working on **FARO SST**
+- 🔭 I’m currently working on **Globant**
 
 - 🌱 I’m currently learning **CSS, HTML, Javascript, Angular, React, .Net**
 
