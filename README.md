@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Restrepo</h1>
 <h3 align="center">A frontend developer from Colombia</h3>
 
-- 🔭 I’m currently working on **Globant**
+- 🔭 I’m currently working at **Globant**
 
 - 🌱 I’m currently learning **CSS, HTML, Typescript, Angular**
 
