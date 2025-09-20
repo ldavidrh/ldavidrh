@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **CI&T**
 
-- 🌱 I’m currently learning **CSS, HTML, Typescript, Angular**
+- 🌱 I’m currently learning **CSS, HTML, Typescript, Angular, Astro, GSAP**
 
 - 💬 Ask me about **Angular**
 
